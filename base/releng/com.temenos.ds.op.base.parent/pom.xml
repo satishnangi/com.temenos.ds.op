@@ -65,9 +65,9 @@
 			<url>http://download.eclipse.org/tools/orbit/downloads/drops/R20140525021250/repository/</url>
 		</repository>
 		<repository>
-			<id>eclipse-team-svn-2.0</id>
+			<id>net.sf.eclipsecs.checkstyle</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/technology/subversive/2.0/update-site/</url>
+			<url>http://eclipse-cs.sf.net/update/</url>
 		</repository>
 			<!-- req. for org.eclipse.e4.core.tools in /*.base.sdk.repository/category.xml -->
 	<!-- Not working... :-( <repository> <id>vogella-e4tools-luna</id> <layout>p2</layout> 
