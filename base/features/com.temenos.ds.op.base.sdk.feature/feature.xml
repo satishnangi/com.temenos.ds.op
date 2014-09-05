@@ -47,7 +47,6 @@
       <import feature="org.eclipse.emf.eson.tests.feature"/>
       <import feature="org.eclipse.pde.api.tools.ee.feature"/>
       <import feature="org.eclipse.team.svn"/>
-      <import feature="net.sf.eclipsecs"/>
       <import plugin="com.google.guava.source"/>
       <import plugin="org.mockito"/>
       <import plugin="org.mockito.source"/>
